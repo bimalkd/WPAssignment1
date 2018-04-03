@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="118371" started-at="2018-04-03T17:45:42Z" finished-at="2018-04-03T17:47:41Z">
+  <suite name="Default suite" duration-ms="109967" started-at="2018-04-03T19:23:33Z" finished-at="2018-04-03T19:25:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="118371" started-at="2018-04-03T17:45:42Z" finished-at="2018-04-03T17:47:41Z">
+    <test name="Default test" duration-ms="109967" started-at="2018-04-03T19:23:33Z" finished-at="2018-04-03T19:25:23Z">
       <class name="testDriver.TestCaseRunner">
-        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="13371" started-at="2018-04-03T17:45:43Z" finished-at="2018-04-03T17:45:56Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="setUP" is-config="true" duration-ms="15197" started-at="2018-04-03T19:23:34Z" finished-at="2018-04-03T19:23:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="6764" started-at="2018-04-03T17:45:56Z" data-provider="dataProvider1" finished-at="2018-04-03T17:46:03Z">
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="currencyConverterValidation" duration-ms="9170" started-at="2018-04-03T19:23:49Z" data-provider="dataProvider1" finished-at="2018-04-03T19:23:58Z">
           <params>
             <param index="0">
               <value>
@@ -32,15 +32,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currencyConverterValidation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="716" started-at="2018-04-03T17:46:03Z" finished-at="2018-04-03T17:46:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="tearDown" is-config="true" duration-ms="680" started-at="2018-04-03T19:23:58Z" finished-at="2018-04-03T19:23:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="14196" started-at="2018-04-03T17:46:04Z" finished-at="2018-04-03T17:46:18Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="setUP" is-config="true" duration-ms="11786" started-at="2018-04-03T19:23:59Z" finished-at="2018-04-03T19:24:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="8137" started-at="2018-04-03T17:46:18Z" data-provider="dataProvider1" finished-at="2018-04-03T17:46:26Z">
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="currencyConverterValidation" duration-ms="5310" started-at="2018-04-03T19:24:10Z" data-provider="dataProvider1" finished-at="2018-04-03T19:24:16Z">
           <params>
             <param index="0">
               <value>
@@ -61,15 +61,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currencyConverterValidation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="792" started-at="2018-04-03T17:46:26Z" finished-at="2018-04-03T17:46:27Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="tearDown" is-config="true" duration-ms="670" started-at="2018-04-03T19:24:16Z" finished-at="2018-04-03T19:24:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="12968" started-at="2018-04-03T17:46:27Z" finished-at="2018-04-03T17:46:40Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="setUP" is-config="true" duration-ms="14368" started-at="2018-04-03T19:24:16Z" finished-at="2018-04-03T19:24:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="12309" started-at="2018-04-03T17:46:40Z" data-provider="dataProvider1" finished-at="2018-04-03T17:46:52Z">
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="currencyConverterValidation" duration-ms="11710" started-at="2018-04-03T19:24:31Z" data-provider="dataProvider1" finished-at="2018-04-03T19:24:42Z">
           <params>
             <param index="0">
               <value>
@@ -90,15 +90,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currencyConverterValidation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="752" started-at="2018-04-03T17:46:52Z" finished-at="2018-04-03T17:46:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="tearDown" is-config="true" duration-ms="707" started-at="2018-04-03T19:24:42Z" finished-at="2018-04-03T19:24:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="14735" started-at="2018-04-03T17:46:53Z" finished-at="2018-04-03T17:47:08Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="setUP" is-config="true" duration-ms="11861" started-at="2018-04-03T19:24:43Z" finished-at="2018-04-03T19:24:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="9278" started-at="2018-04-03T17:47:08Z" data-provider="dataProvider1" finished-at="2018-04-03T17:47:17Z">
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="currencyConverterValidation" duration-ms="5252" started-at="2018-04-03T19:24:55Z" data-provider="dataProvider1" finished-at="2018-04-03T19:25:00Z">
           <params>
             <param index="0">
               <value>
@@ -119,23 +119,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currencyConverterValidation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="726" started-at="2018-04-03T17:47:17Z" finished-at="2018-04-03T17:47:18Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="tearDown" is-config="true" duration-ms="704" started-at="2018-04-03T19:25:00Z" finished-at="2018-04-03T19:25:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="15954" started-at="2018-04-03T17:47:18Z" finished-at="2018-04-03T17:47:34Z">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="setUP" is-config="true" duration-ms="13686" started-at="2018-04-03T19:25:01Z" finished-at="2018-04-03T19:25:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method status="PASS" signature="noAmountCurrencyConverterErrorMessageValidation()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="noAmountCurrencyConverterErrorMessageValidation" duration-ms="6401" started-at="2018-04-03T17:47:34Z" finished-at="2018-04-03T17:47:40Z">
+        <test-method status="PASS" signature="noAmountCurrencyConverterErrorMessageValidation()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="noAmountCurrencyConverterErrorMessageValidation" duration-ms="7727" started-at="2018-04-03T19:25:15Z" finished-at="2018-04-03T19:25:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- noAmountCurrencyConverterErrorMessageValidation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="785" started-at="2018-04-03T17:47:40Z" finished-at="2018-04-03T17:47:41Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@f6c48ac]" name="tearDown" is-config="true" duration-ms="679" started-at="2018-04-03T19:25:22Z" finished-at="2018-04-03T19:25:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testDriver.TestCaseRunner -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

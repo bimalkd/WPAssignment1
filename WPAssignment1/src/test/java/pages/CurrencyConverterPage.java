@@ -60,7 +60,7 @@ public class CurrencyConverterPage {
 			
 			//Validate if "Convert from" and "Convert to" currency values are present in the text and return true or false.
 			if (sMessage.contains(sConvertFrom) && sMessage.contains(sConvertTo)) {
-				System.out.println("success");
+				System.out.println("Converfrom from "+sConvertFrom+" to "+sConvertTo+" is successful");
 				return true;
 			}
 			else {
