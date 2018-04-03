@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="118371" started-at="2018-04-03T17:45:42Z" finished-at="2018-04-03T17:47:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="118371" started-at="2018-04-03T17:45:42Z" finished-at="2018-04-03T17:47:41Z">
+      <class name="testDriver.TestCaseRunner">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="13371" started-at="2018-04-03T17:45:43Z" finished-at="2018-04-03T17:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="6764" started-at="2018-04-03T17:45:56Z" data-provider="dataProvider1" finished-at="2018-04-03T17:46:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[New Zealand Dollar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[United States Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyConverterValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="716" started-at="2018-04-03T17:46:03Z" finished-at="2018-04-03T17:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="14196" started-at="2018-04-03T17:46:04Z" finished-at="2018-04-03T17:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="8137" started-at="2018-04-03T17:46:18Z" data-provider="dataProvider1" finished-at="2018-04-03T17:46:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[United States Dollar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[New Zealand Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyConverterValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="792" started-at="2018-04-03T17:46:26Z" finished-at="2018-04-03T17:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="12968" started-at="2018-04-03T17:46:27Z" finished-at="2018-04-03T17:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="12309" started-at="2018-04-03T17:46:40Z" data-provider="dataProvider1" finished-at="2018-04-03T17:46:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pound Sterling]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[New Zealand Dollar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyConverterValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="752" started-at="2018-04-03T17:46:52Z" finished-at="2018-04-03T17:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="14735" started-at="2018-04-03T17:46:53Z" finished-at="2018-04-03T17:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="currencyConverterValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="currencyConverterValidation" duration-ms="9278" started-at="2018-04-03T17:47:08Z" data-provider="dataProvider1" finished-at="2018-04-03T17:47:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Swiss Franc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Euro]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyConverterValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="726" started-at="2018-04-03T17:47:17Z" finished-at="2018-04-03T17:47:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="setUP" is-config="true" duration-ms="15954" started-at="2018-04-03T17:47:18Z" finished-at="2018-04-03T17:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="noAmountCurrencyConverterErrorMessageValidation()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="noAmountCurrencyConverterErrorMessageValidation" duration-ms="6401" started-at="2018-04-03T17:47:34Z" finished-at="2018-04-03T17:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noAmountCurrencyConverterErrorMessageValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testDriver.TestCaseRunner@5c3bd550]" name="tearDown" is-config="true" duration-ms="785" started-at="2018-04-03T17:47:40Z" finished-at="2018-04-03T17:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testDriver.TestCaseRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
